@@ -4,23 +4,23 @@ Our previous idea was unusable because another group was pursuing a similar conc
 
 Our app, *Hoos On Task*, has been designed without two primary users in mind, students and instructors. Of course, with this, a secondary user could be TAs, but their role in the service would be limited as they would only answer student requests and communicate with the instructor. This app fills a role we have observed is lacking in our academic community, group work communication, and accountability. We feel that group work assigned in class is often a tedious process because of the methods of communication involved. Though there are available services like Microsoft teams, we have found that they are hard to use and generally too comprehensive to warrant the use of in a class group project. *Hoos On Task* fits the scope of an easy and convenient way for student groups to keep up to date with relevant announcements and deadlines while also giving instructors the ability to comprehensively understand group performance and engagement with the material. It solves the accountability issues both instructors and group members experience when conducting this kind of work.
 
-From the student's perspective:
+## From the student's perspective:
 
 We envision the student creating an account by logging in with their UVA credentials (presumably Netbadge), and uploading a photo to be used on the profile for ease of in-person group communication. The service should be able to scrape basic info like your name and graduation year date with your UVA information to build a basic profile. Students may be prompted to include more information like hometown or other biographical details if so inclined. 
 
 Once a student has been added to their group they will have access to the homepage. This is a simple interface with 5 buttons to take you to the relevant pages. It includes a “Group Messenger” tab which opens a group-wide chat where smaller details can be discussed (similar to a text chat). A “Project Schedule” tab gives students a way of viewing relevant project deadlines set by the instructors as well as to view/create relevant group deadlines. Next, a “Group Meetings” tab where individuals can create and “RSVP” to meetings. In addition, this page is used to take attendance for group meetings via QR code. This will be used at the beginning and end of each meeting to ensure (for both instructor and student) that every student attends and stays for the duration of the meeting. The final tab is “Group Attendance” giving a page to view the date and attendance of past meetings while also granting the ability to look at notes from previous meetings for absent members or group reflection. All of these pages are designed with the idea of being minimalistic. After conducting interviews, we realize there are things that need to be prioritized before others and will be fully considered in the design process. 
 
-From the instructor’s perspective:
+## From the instructor’s perspective:
 
 We envision the Instructor making an account similar to that of a student, but with/without the need to upload a photo. After account creation, the instructor would create the “Class Project”. After easily adding the class roster by way of excel file upload or manual entry, the instructor can then assign teams. Through this, the instructor would be able to monitor group contributions, directly message different group members, and track the attendance of the group.  The app also provides an interface that sends statistical data directly to the professor, in order to analyze and understand the impact each individual group member is making. It will show their attendance records, tasks they have completed, and the group comments made about them that were submitted. It will give instructors a more comprehensive idea of how effectively groups and students are working while giving them a platform to make announcements easily and communicate with TAs. Their interface will be simple in its ability to toggle between these features and will be a web app.
 
-Our client is Professor Elizabeth Turner of the Art History Department.  She teaches a variety of classes within the department, but a large majority of them are seminar style which heavily involve group work.  We met over zoom to discuss both our project ideas as well as conduct an interview with her.  She is very receptive and also provided us with resources of other professors that may be interested in our idea. Through our communications, we were able to understand more clearly what a professor would be looking for when monitoring group work.  For example, Professor Turner expressed how she would like to know some of the behind the scenes processes that went into creating a group project, which is why we developed an idea for including an activity log that tracks who participates on a document, and a chart of overall group participation.  Additionally, Professor Turner explained that while for her it is easy to monitor collaboration personally since her class sizes are relatively small, she understands the need for some sort of digital interface to make this process easier, especially for classes with significantly more students. 
+Our client is Professor Elizabeth Turner of the Art History Department.  She teaches a variety of classes within the department, but a large majority of them are seminar style which heavily involve group work.  We met over zoom to discuss both our project ideas as well as conduct an interview with her.  She is very receptive and also provided us with resources of other professors that may be interested in our idea. Through our communications, we were able to understand more clearly what a professor would be looking for when monitoring group work.  For example, Professor Turner expressed how she would like to know some of the behind the scenes processes that went into creating a group project, which is why we developed an idea for including an activity log that tracks who participates on a document, and a chart of overall group participation.  Additionally, Professor Turner explained that while for her it is easy to monitor Collaboration personally since her class sizes are relatively small, she understands the need for some sort of digital interface to make this process easier, especially for classes with significantly more students. 
 
 We made the decision to have every member of our group collect interviews. When we think of the primary stakeholder we are considering an older student whose classes include a lot of rigorous group work and an instructor who assigns a large, potentially semester-long project. We conducted 6 interviews which are listed below. We recognize two main users, students, and instructors, and therefore need to interview both types of users. When interviewing students, we were able to understand their issues with group communication during projects. It outlines the greatest struggles with the current lack of organization and displays the values of the typical user and what they would value in a service like ours. We realized that our target audience is almost all UVA students so we chose students we were familiar with for ease of communication. We then conducted user interviews with both students and instructors to understand what the biggest problems with group work communication were. We recorded many, but not all of our interviews. Each member of the group participated and synthesized their transcripts down to bullet-pointed responses seen below. This will be the basis for our work activity notes.
 
-List of Interview Questions
+## List of Interview Questions
 
-- Prior Experience
+- **Prior Experience**
  
  - Have you ever participated in a group project at UVA and if so what method of communication did your group use?
  
@@ -38,7 +38,7 @@ List of Interview Questions
  
  - How much did the instructor monitor your group engagement?
  
-- Proposed Solution
+- **Proposed Solution**
  
  - Would you benefit from a product like ours (briefly explain the concept statement)?
  
@@ -50,12 +50,7 @@ List of Interview Questions
  
  - If multiple group projects ask which ones were successful and unsuccessful and why they felt that way?
  
-
- 
-
-## 
-
-Interview #1 (Conducted by John) Student Ethan Marsh Philosophy Major
+## Interview #1 (Conducted by John) Student Ethan Marsh Philosophy Major
 
 - How often do you participate in group work?
  
@@ -97,9 +92,6 @@ Interview #1 (Conducted by John) Student Ethan Marsh Philosophy Major
  
  - For philosophy majors it is not very important but when group work comes up it is important to communicate effectively about expected work and deadlines 
  
-
- 
-
 - Would you benefit from a product like ours (briefly explain concept statement)?
  
  - Yes the interface is easy to use and condenses all the relevant information into a small service
@@ -115,13 +107,8 @@ Interview #1 (Conducted by John) Student Ethan Marsh Philosophy Major
 - Do you care about group projects and communication?
  
  - Yes, I hate being the one to do the brunt of the work for a group project because of lack of communication on part of my group mates and would like more accountability from them on occasion
- 
 
- 
-
-## 
-
-Interview #2 (Conducted by John) Student Eli Vollmer Architecture
+## Interview #2 (Conducted by John) Student Eli Vollmer Architecture
 
 - Do you do a lot of group work?
  
@@ -131,7 +118,7 @@ Interview #2 (Conducted by John) Student Eli Vollmer Architecture
  
  - Group presentation for a history class
  
- - Used imessage
+ - Used iMessage
  
  - After assigning groups in person they exchanged numbers
  
@@ -177,12 +164,9 @@ Interview #2 (Conducted by John) Student Eli Vollmer Architecture
  
  - Pretty equal except for one individual
  
-- How important has groupwork been in your college career?
+- How important has group work been in your college career?
  
- - Not very important, much more independent work, group projects are infrequent but weighted heavily
- 
-
- 
+ - Not very important, much more independent work, group projects are infrequent but weighted heavily 
 
 - Would you benefit from a product like ours (briefly explain concept statement)?
  
@@ -198,14 +182,9 @@ Interview #2 (Conducted by John) Student Eli Vollmer Architecture
  
 - Do you care about group projects and communication?
  
- - Yes, but i hate the lack of accountability that comes from a low-monitored imessage organized group project
+ - Yes, but i hate the lack of accountability that comes from a low-monitored iMessage organized group project
  
-
- 
-
-## 
-
-Interview #3 (Conducted by William) Student-Taught Course Instructor Evan Rees
+## Interview #3 (Conducted by William) Student-Taught Course Instructor Evan Rees
 
 - What do you currently use to form groups among your students?
  
@@ -220,15 +199,11 @@ Interview #3 (Conducted by William) Student-Taught Course Instructor Evan Rees
 - Do you let students form their own groups?
  
  - Students pick their groups based on common interests, but they are guided through the process of group selection.
- 
-
- 
 
 - What software / custom solutions do you use to monitor group progress and keep them on track?
  
  - Slack is what is utilized to keep tabs on students. Occasional check in messages will be sent and students have the ability to freely ask questions.
  
-
 - Is attendance taken in this course?
  
  - Due to the small size of the course, attendance is not taken. Groups rely on others to keep themselves accountable to their actions.
@@ -236,7 +211,7 @@ Interview #3 (Conducted by William) Student-Taught Course Instructor Evan Rees
 
 - How important is group work to your course?
  
- - Groupwork is a foundational part of this course as 
+ - Group work is a foundational part of this course as 
  
 - Do you see any common factors in struggling students?
  
@@ -251,7 +226,7 @@ Interview #3 (Conducted by William) Student-Taught Course Instructor Evan Rees
  - Knowing group progress would be something of interest. Too often groups will tell you “it is okay it is okay” in class and then be falling behind key requirements.
  
 
-Interview #4 (Conducted by Caleb) Professor Elizabeth Turner Art History
+## Interview #4 (Conducted by Caleb) Professor Elizabeth Turner Art History
 
 List of Initial Interview Questions/Transcript
 
@@ -279,8 +254,7 @@ List of Initial Interview Questions/Transcript
  
  - This is a smaller class, though, so it is easier to monitor the students personally
  
-
-Problem Significance
+> Problem Significance
 
 - How important is group work to your course?
  
@@ -305,11 +279,7 @@ Problem Significance
 
  
 
-## 
-
-Interview #5 (Conducted by Hunter) Student Joshua Belisle, Mechanical Engineering Major
-
- 
+## Interview #5 (Conducted by Hunter) Student Joshua Belisle, Mechanical Engineering Major 
 
 - How often do you participate in group work?
  
@@ -364,14 +334,7 @@ Interview #5 (Conducted by Hunter) Student Joshua Belisle, Mechanical Engineerin
  
  - Yes, it happens in almost all of my group projects that certain team members end up doing way more than others. I do them so much that it would be nice to have some sort of system that encourages group accountability.  
  
-
- 
-
-## 
-
-Interview #6 (Conducted by Hunter) Student Bia Sajjad, Public Health Major
-
- 
+## Interview #6 (Conducted by Hunter) Student Bia Sajjad, Public Health Major
 
 - Have you ever participated in a group project at UVA and if so what method of communication did your group use?
  
@@ -400,7 +363,6 @@ Interview #6 (Conducted by Hunter) Student Bia Sajjad, Public Health Major
 - How much did the instructor monitor your group engagement?
  
  - They didn’t
- 
 
 - Would you benefit from a product like ours (briefly explain the concept statement)?
  
@@ -425,11 +387,11 @@ Interview #6 (Conducted by Hunter) Student Bia Sajjad, Public Health Major
 
 In our project, we chose to devise a way to make group work easier to navigate and monitor between students and the professor.  This assignment pushed us to gather information and data from a multitude of sources in order to give a full analysis of our project idea and the process of creating this interface.  
 
-In the scope of this assignment, we decided it was best to conduct interviews of both students and professors, since we have two categories of users that would use our app.  We conducted several interviews and condensed them into the most important and informative points in order to use these conversations as ways to lay out the information we would need to include into our project.  We decided to select individuals who have participated in group projects and professors who have assigned group projects within their class.  We asked for their current practices in organizing these projects, and any pros and cons that were associated with them.  We also asked about any digitalized formed of group organization that they used, whether it be groupme, imessage, discord, etc.  After conducting these interviews we came to the realization that several of these digital interfaces were either ineffective or poorly organized, which is how we furthered our planning process for Hoos OnTask.  
+In the scope of this assignment, we decided it was best to conduct interviews of both students and professors, since we have two categories of users that would use our app.  We conducted several interviews and condensed them into the most important and informative points in order to use these conversations as ways to lay out the information we would need to include into our project.  We decided to select individuals who have participated in group projects and professors who have assigned group projects within their class.  We asked for their current practices in organizing these projects, and any pros and cons that were associated with them.  We also asked about any digitalized formed of group organization that they used, whether it be groupMe, iMessage, discord, etc.  After conducting these interviews we came to the realization that several of these digital interfaces were either ineffective or poorly organized, which is how we furthered our planning process for Hoos OnTask.  
 
-After this we developed our WAAD diagram.  The way we conducted this was similar to the in class activity, where we read through the interviews and wrote observations on different aspects of their statements.  After this, we created sticky notes similar of these observations and organized them into clusters were the ideas were similar to each other.  We then grouped these observations into various categories relating to our project.  Specifically, our initial groups were Group Communication, Group Formation, Perception of Group Work, Group Work Setup and Instructor Invention.  For these groups, we included sub groups where each individual observation best matched.  These sub groups were Meeting Scheduling Issues, Group Messaging Habits, Task Delegation, Communication Issues, Current Formation Practices, Group Formation Issues, Professors Value Group Work, Students DO NOT Value Group Work, Information Presentation & Consolidation, Group Size, Accountability and Instructor Monitoring Assistance.  These groups allowed us to recognize the general grievances that current users have with the the current group work practices.  
+After this we developed our Work Activity Affinity Diagram (WAAD).  The way we conducted this was similar to the in class activity, where we read through the interviews and wrote observations on different aspects of their statements.  After this, we created sticky notes similar of these observations and organized them into clusters were the ideas were similar to each other.  We then grouped these observations into various categories relating to our project.  Specifically, our initial groups were Group Communication, Group Formation, Perception of Group Work, Group Work Setup and Instructor Invention.  For these groups, we included sub groups where each individual observation best matched.  These sub groups were Meeting Scheduling Issues, Group Messaging Habits, Task Delegation, Communication Issues, Current Formation Practices, Group Formation Issues, Professors Value Group Work, Students **DO NOT** Value Group Work, Information Presentation & Consolidation, Group Size, Accountability and Instructor Monitoring Assistance.  These groups allowed us to recognize the general grievances that current users have with the the current group work practices.  
 
-As for work roles, we realized that the two main categories were the students and the professors.  Each of these user categories had different interactions with the software, but they would similar interactions with external software.  For example, both the students and the professor would be using data from google drive, google docs, etc.  Also, communications would be done through the app, but also could be exported collab and canvas. 
+As for work roles, we realized that the two main categories were the students and the professors.  Each of these user categories had different interactions with the software, but they would similar interactions with external software.  For example, both the students and the professor would be using data from google drive, google docs, etc.  Also, communications would be done through the app, but also could be exported Collab and  Canvas. 
 
 This data was crucial in our project because it showed us what additional aspects we needed to include, as well as gave us a good model for constructing our flow model.  Our model shows different interactions throughout our app that link the student to the professor.  We felt that this was excellent in depicting how our app works almost as a check and balance system, where the professor monitors the overall group work, but the students also monitor each other.  This way, it allows the professor to not be overwhelmed with group accountability, but also giving them the ability to jump in and provide input when needed. 
 
@@ -473,7 +435,7 @@ We examined our completed WAAD for any work activity notes that could be synthes
 
 ![](https://lh4.googleusercontent.com/jnOIrwNTvHtqVHFIG8DAGkNU6woeMm3phRT3RZ3-5qi2giNztXbhWysJjgoSUU9Jn2Vy7WgMUAZd0Q77lmcKMntqR6ZLCiWOmqdVMS9GsdOLZrtij0DwhTe4XEbQQAQrLw=w1280)
 
-Below are our two flow models. The first depicts how the current environment for group project interaction works currently, and the second outlines the environment once our product is implemented and the simplifications and consolidations it could offer. The third image depicts our first rough draft of a flow model. For the first flow, we outlined work roles that were outside of the scope of our project to understand the comprehensive space of operation for group projects. We began with the two types of users, students and instructors, and built out from there the interaction points with other work roles and contributors in group projects. That is where services like imessage come in for group communication as well as google drive, and collab. The hope of our product is to decrease the different areas of interaction both sets of users must go through in the project process. The flow model is a clean way of exemplifying the different services and methods of communication individuals currently must use in group participation. The second model displays how a system like ours could consolidate some of these services into a sleek and easy to use interface.
+Below are our two flow models. The first depicts how the current environment for group project interaction works currently, and the second outlines the environment once our product is implemented and the simplifications and consolidations it could offer. The third image depicts our first rough draft of a flow model. For the first flow, we outlined work roles that were outside of the scope of our project to understand the comprehensive space of operation for group projects. We began with the two types of users, students and instructors, and built out from there the interaction points with other work roles and contributors in group projects. That is where services like iMessage come in for group communication as well as google drive, and Collab. The hope of our product is to decrease the different areas of interaction both sets of users must go through in the project process. The flow model is a clean way of exemplifying the different services and methods of communication individuals currently must use in group participation. The second model displays how a system like ours could consolidate some of these services into a sleek and easy to use interface.
 
 ![](https://lh6.googleusercontent.com/6F2EsMYInlo1O76H7zIwgmJK7zumJn2q2VH1j2322ePgl7Hd5bb5oseyp3BSzpO90btZSgfVA0HS-kai48N6A-kdHoK2hkHyQ28TgCDGHErA7k3k0Cvyw3Bm5crO52w3fQ=w1280)
 
@@ -481,13 +443,13 @@ Below are our two flow models. The first depicts how the current environment for
 
 ![](https://lh3.googleusercontent.com/LX28V6ePv-sQ6i7QxKsXPY6c84pqbVOY6Zr8U_TDcnU_axVy6qpeEHGwhsUxPuWvGeXWHIj8gDXRFBlo4CO_U8loSWoa2__hrwQvY9R9GKmauyLNeIREfK_F_Rw_wfG7lg=w1280)
 
-The first draft of the first flow model
+## The first draft of the first flow model
 
-Model 3: Narrative
+## Model 3: Narrative
 
 Sally, Rick, Anthony, and Catherine were all taking an introduction to engineering course, and their professor had introduced them to a new software program called "Hoos OnTask." This software would allow them to pick and organize their group more efficiently, while also recording the progress and participation throughout the group.
 
-Through Hoos OnTask, they were able to pick the members based on their personal characteristics that they feel would promote the most efficiency.  The online interface also made it easier to collaborate and work outside of class.
+Through Hoos OnTask, they were able to pick the members based on their personal characteristics that they feel would promote the most efficiency.  The online interface also made it easier to Collaborate and work outside of class.
 
 Furthermore, the app provides statistical input to both the members and the professor, showing contribution levels and the overall interactions of the groups.  This helped them and the professor better address strengths and weaknesses throughout the project process.
 
@@ -497,9 +459,9 @@ Through the app's statistics as well as the professor’s guidance, the group wa
 
 At the end of the semester, they looked back on their experiences with Hoos OnTask and realized how much it had helped them grow and learn. They were grateful for the opportunity to use such a powerful tool, and knew that it had transformed the way they worked together in their future engineering classes.
 
-By the end of the semester, all the group members felt that they had excelled in their project.  Hoos OnTask allowed them to become better communicators, collaborates and designed.  They recognized how significant a role the app played in their success and recommended its use to future groups.  As for the professor, they were especially happy how much more organized their classes felt, and how they were efficiently able to connect with each group and provide insight and recommendations throughout the project.  They will also continue to use Hoos OnTask in their future classes.
+By the end of the semester, all the group members felt that they had excelled in their project.  Hoos OnTask allowed them to become better communicators, Collaborates and designed.  They recognized how significant a role the app played in their success and recommended its use to future groups.  As for the professor, they were especially happy how much more organized their classes felt, and how they were efficiently able to connect with each group and provide insight and recommendations throughout the project.  They will also continue to use Hoos OnTask in their future classes.
 
-Justification
+### Justification
 
 We chose a narrative because we felt it best describes the functionality of our project.  By providing a story of all the users, both the students and the professors, it depicts how our interface can be implemented into a real world scenario.  More specifically, this idea can even be present in a class like HCI, which is heavily focused on group work.  Also, because our users are so general, a narrative helps us narrow the focus to a specific class or assignment.  For instance, we chose to use introductory engineering students because that best represents a scenario that we could relate to.
 
