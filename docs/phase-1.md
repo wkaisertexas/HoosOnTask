@@ -6,13 +6,13 @@ There is no client for this application. Instead, the users are Students in the 
 
 *Hoo's Got It's* design advantage is best explained through a use case:
 
-While closing up at a bar, Hunter finds an expensive Canada Goose jacket. Either from an innate desire to help others or the fact that his stature makes the jacket look as if he was a toddler, Hunter attempts to find the rightful owner. Hunter pulls out his phone, snaps a picture of the item, and taps a button indicating the item was found at his current location. 
-
-The next morning,  John is now terrified of losing such a valuable article of clothing. For some reason, John is incapable of exactly remembering where he left it (likely due to last night's events). So, John opens Hoo's Got It and searches for his item, providing as many details as possible: "Canada Goose Jacket, size medium with a hole in the left pocket and several gum wrappers in the right" and puts a pin near the corner, approximately where he left it. From the search, John sees a list of jackets and claims Hunter's posting, putting him in a direct messaging channel with Hunter.
-
-After class, Hunter is notified that his item was claimed. However, the valuable jacket was claimed by multiple people: by John, who made his detailed (and accurate) query, and another user who simply searched for "jacket" and provided no approximate location nor identifying details.
-
-From this information, Hunter quickly and confidently identifies John as the rightful owner. After arrangements are made, John gets his jacket back. All of this without Hunter revealing his name, nor his phone number. 
+> While closing up at a bar, Hunter finds an expensive Canada Goose jacket. Either from an innate desire to help others or the fact that his stature makes the jacket look as if he was a toddler, Hunter attempts to find the rightful owner. Hunter pulls out his phone, snaps a picture of the item, and taps a button indicating the item was found at his current location. 
+> 
+> The next morning, John is now terrified of losing such a valuable article of clothing. For some reason, John is incapable of exactly remembering where he left it (likely due to last night's events). So, John opens Hoo's Got It and searches for his item, providing as many details as possible: "Canada Goose Jacket, size medium with a hole in the left pocket and several gum wrappers in the right" and puts a pin near the corner, approximately where he left it. From the search, John sees a list of jackets and claims Hunter's posting, putting him in a direct messaging channel with Hunter.
+> 
+> After class, Hunter is notified that his item was claimed. However, the valuable jacket was claimed by multiple people: by John, who made his detailed (and accurate) query, and another user who simply searched for "jacket" and provided no approximate location nor identifying details.
+> 
+> From this information, Hunter quickly and confidently identifies John as the rightful owner. After arrangements are made, John gets his jacket back. All of this without Hunter revealing his name, nor his phone number. 
 
 - **Project manager:** Role distributed evenly between group members due to 4 person group
 - **Research lead:** Caleb Adam
@@ -87,7 +87,7 @@ Listing how many items someone has returned provides social proof and satisfacti
  
  - A group chat like this while ineffective due to organizational issues is further hindered by network effects
  
- - For a service like this to work requires participation by a large portion of the UVA community unlike this Groupme which contains less than 10% of the UVa student body
+ - For a service like this to work requires participation by a large portion of the UVA community unlike this GroupMe which contains less than 10% of the UVa student body
  
  - An app called Get it Back which is open to everyone and functions similarly to our concept but has few monthly users and poor reviews
  
@@ -98,15 +98,11 @@ Listing how many items someone has returned provides social proof and satisfacti
 
 ![](https://lh5.googleusercontent.com/MX-9MFmIF-yHz5cilSOKY9DPrXZGluPj3_imDWMUsAyt61GQ3_W4d5YdZ4PCKrLfJwFIVUZLm3sHUG4nmOoOiEqXJQ9pyY7lSVeLKEHEha2B-09Jep_e3kN6pixL_9FDvw=w1280)
 
-## 
-
-Lost and Found Group Chat
+## Lost and Found Group Chat
 
 ![](https://lh6.googleusercontent.com/uUPBNKLOcMlZuj4rYekDaKKwemjzJKFhqHWp5UrdL3cJH4i4o4vdHM8JQRwaTIKGLT9AW1SqcJ7mjomYvEYz9cKW3u8tRZll11lHXnnUsQChh1a7TqtNPxmf51oqsA80Qw=w1280)
 
-## 
-
-The Value of Anonmity in Chats
+## The Value of Anonymity in Chats
 
 - User interviews began by speaking with individuals in the UVA community who suffer from the problem of losing things (most students).
  
@@ -145,9 +141,7 @@ Interviews were conducted using the question set shown to the right. The followi
  - "I mean it could be anywhere.  There are so many places that I go to each day on grounds, I wouldn't know where to start.  I would probably walk through the rooms where I've had classes, but if I had no idea where I lost that water bottle, I would just consider it gone"
  
 
-### 
-
-Economic Value of Restitution
+### Economic Value of Restitution
 
 - If you lost a several-year old water bottle which initially retailed for $50, what is the maximum amount of time you would invest searching for it?
  
@@ -158,9 +152,7 @@ Economic Value of Restitution
  - "Since it has significant sentimental value to it, I would want to find it much more.  I would continuously search for it for probably a week or so, then I would consider it gone.  I would still really want the item back but wouldn't know what to do"
  
 
-### 
-
-Location-Based Interactions
+### Location-Based Interactions
 
 - Have you heard of Yik Yak? Describe your experience with the platform
  
@@ -173,16 +165,14 @@ Location-Based Interactions
 
 - Have you heard of existing GroupMe or Facebook communities set up for lost items? If so, have you used them?
  
- - "I've heard of them but honestly I've never used or joined them.  I don't even fully understand how to find it or how the Groupme for lost items works"
+ - "I've heard of them but honestly I've never used or joined them.  I don't even fully understand how to find it or how the GroupMe for lost items works"
  
 - What would be some of your pros and cons to using these kinds of groups?
  
  - "I think the pros are that it seems pretty direct.  People kind of report stuff out of the goodness of their hearts, so that's nice.   Also from what I've heard everyone is pretty truthful about their items.   The cons, for me, is accessibility.  I've never been in one of these groups and if you asked me to join right now, I wouldn't know how.  It almost feels like you have to get the link from  a friend or someone already in the GroupMe to join"
  
 
-### 
-
-Moral Value of Restitution
+### Moral Value of Restitution
 
 - If you returned an item to its owner, would this be a morally satisfying experience? If so, what amount of time investment seems reasonable to you?
  
@@ -226,12 +216,9 @@ Monetization, therefore, is critical to the app's design and sustainability. Thi
 
 While most items will be returned either with a face-to-face meeting or a drop-off, there are some scenarios where this would not be feasible when either the claimer and/or the finder:
 
-- Have privacy concerns
- 
+- Have privacy concerns 
 - Are out of town
- 
 - Are too busy 
- 
 
 To accommodate for this, the claimer would be able to send a shipping label directly through the app for a small $2 fee.
 
@@ -257,4 +244,4 @@ After developing our prototype, we showed it to potential users to obtain feedba
  
  - There are clear stylistic improvements that will be made in time but the backbone of the app will likely remain close to the prototype after we iterate through
  
-- We believe that our design will be more effective than some of the other methods of retrieving lost and found items due to the accessibility and connectivity of our app.  Whereas other platforms such as Groupmes or the traditional approach of actively searching for a lost item are both time-consuming and unorganized, our app's location service as well as the feature to direct message and post items creates a system where the process is time effective, honest, and easier.  Now, users would not have to take out of their day looking for items if they don't want to, they can simply log into our app and efficiently solve this problem whenever and wherever.
+- We believe that our design will be more effective than some of the other methods of retrieving lost and found items due to the accessibility and connectivity of our app.  Whereas other platforms such as GroupMes or the traditional approach of actively searching for a lost item are both time-consuming and unorganized, our app's location service as well as the feature to direct message and post items creates a system where the process is time effective, honest, and easier.  Now, users would not have to take out of their day looking for items if they don't want to, they can simply log into our app and efficiently solve this problem whenever and wherever.

@@ -461,7 +461,7 @@ They liked the idea of being provided group statistics, but this needed clarific
 
 ## Group Information Page
 
-This page shows the statistics of a group broken down by Google Drive contribution over time (top left), drive contribution broken-down by groupmemeber (top-right) as well as attendance and general info (emails, names, etc) at the bottom. 
+This page shows the statistics of a group broken down by Google Drive contribution over time (top left), drive contribution broken-down by GroupMemeber (top-right) as well as attendance and general info (emails, names, etc) at the bottom. 
 
 After explaining each section, the client could see the value in it. However, we had to explicitly state our left-to-right logic of group to individual contribution. After this however, the could see the benefit of knowing whether or not the group was working before checking to see if individuals were.
 
