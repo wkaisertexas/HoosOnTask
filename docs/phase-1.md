@@ -1,8 +1,12 @@
-## Rapid Spin
+# Rapid Spin
 
 *Hoo's Got It* is a lost-and-found app designed around trust. Intended for use in and around college campuses, where current solutions are either a network of chaotic bins or large group chats. High item availability in both solutions facilitates fraud and abuse. *Hoo's Got It* is purpose-built with features incompatible with being integrated into the current ad hoc solutions. A streamlined posting process makes listing a lost item as simple as sending a text. Then, a transparent claiming system, revealing the searches leading to the claim provides a digital analog to the physical process of providing identifying details to prove ownership. 
 
+## Client
+
 There is no client for this application. Instead, the users are Students in the University of Virginia community.
+
+## Use Case
 
 *Hoo's Got It's* design advantage is best explained through a use case:
 
@@ -14,6 +18,8 @@ There is no client for this application. Instead, the users are Students in the 
 > 
 > From this information, Hunter quickly and confidently identifies John as the rightful owner. After arrangements are made, John gets his jacket back. All of this without Hunter revealing his name, nor his phone number. 
 
+## Team Roles
+
 - **Project manager:** Role distributed evenly between group members due to 4 person group
 - **Research lead:** Caleb Adam
 - **Design lead:** John Parzick 
@@ -21,9 +27,20 @@ There is no client for this application. Instead, the users are Students in the 
 - **Evaluation lead:** Hunter McGuire 
 - **Reporting lead:** Distributed evenly between the group
  
-![](https://lh3.googleusercontent.com/qB2EE8U_aQiU1mMXqgJ-QJVDhUtDdsTt_XFv9_UXz3cfemfo3zCl6P_jvvjqKOZSo-q7pS9Du2Q_BnjjJuHu_y4=w1280)
 
-![](https://lh5.googleusercontent.com/osFkQagz2FY5W0hGz9mFzGKvFULtjnRVSMHdzYRksh7FOU9EyOVrr5tctvA3oM_SOltK_ne9K06bbpNGepWQbZdTRNosvhiDIG5Pz5Jpv83Z6v9-8IjzTbDxBPLhBsH6_A=w1280)
+## Figma Design File
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJ0YnOcrrUzx5PLPBOVWVOv%2FLost%252BFound%3Ftype%3Ddesign%26node-id%3D205%253A2%26t%3DzD6QxnLNvmHDkGxH-1" allowfullscreen></iframe>
+
+## Interactive Prototype
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJ0YnOcrrUzx5PLPBOVWVOv%2FLost%252BFound%3Ftype%3Ddesign%26scaling%3Dscale-down%26page-id%3D205%253A2%26node-id%3D205-3%26starting-point-node-id%3D205%253A3" allowfullscreen></iframe>
+
+![Original logo design](./assets/phase-1/logo.png)
+
+![Simplified Design](./assets/phase-1/logosimplifications.png)
+
+## Logo Design Philosophy
 
 From an objective standpoint, this logo is ugly.
 
@@ -31,9 +48,9 @@ However, due to Hoo's Got It's situation, the decision to create a visually jarr
 
 This change is in stark contrast to recent logo simplifications at major companies. However, deviation from this pattern is justified for increased recognizability, something a default for these companies given their scale.
 
-![](https://lh5.googleusercontent.com/31AxY0AyCiuXnFWpxXG8MbnGTKK4Wu2DFim9tXhlUy2KhJM0kKq-9k91XCdJEL04ZaoqGHtQOkeNhJ4tmv2uP8uhKJ0gm4tv1DrD66pP4BoEikJiztMr7hALB4qv_YbPHg=w1280)
+![Blue circles represent a common affordance in messaging applications](./assets/phase-1/new_messages.png)
 
-![](https://lh5.googleusercontent.com/MerKLkef0ORjc5wlQYPIVQ8WH6XjUSfnhXv_WsJBnePf-LS5vpDddwb5EXv0hjEFl0xcyN8VQzWgmolFDvampsBwaJhH0V8bzRv_IwxbQvcwgyZRQvlpPlYrVd00CvMKrQ=w1280)
+![Blue circles present in our design](./assets/phase-1/single.png)
 
 ### Intuitive Design Through Standardization
 
@@ -41,9 +58,9 @@ Through following existing design patterns, the site becomes more intuitive. 
 
 A good example of this is the use of blue circles adjacent to profiles to indicate unread messages. This pattern can be seen in both iOS and Android among other messaging apps. 
 
-![](https://lh5.googleusercontent.com/B8c0mmAiaayR3Gx8zKf4E38y0PmWWx7onh7FosC49_wiZbTCpSsuz_V2S1XjAlmquA0WViO5KsYeqFsKdBBw88rqyJJtmYAJvc37qDn-MKxVfb02n5JDkEtkrpKMv0bEdA=w1280)
+![Island structure of claims representing claiming items](./assets/phase-1/)
 
-![](https://lh3.googleusercontent.com/H13eORgABJ6Mo0sc-RVDO3VLZGQnsnrOPMt0qfAmGO5-eVYwxStvdnwttYvU_dlmH3zHg5SNnXplHF4SrJjOhL83BjZm-y-uYwEizz4HuQGpTncUp-XhZNvDW16FTKcnXg=w1280)
+![Island structure present in Prezi](./assets/phase-1/island.png)
 
 ### Island Structure of Claims
 
@@ -53,13 +70,15 @@ Though this design is fairly limited in the number of surrounding elements that 
 
 Furthermore, a full-list view was introduced in the very rare occurrence that any more than four people attempted to claim the same item.
 
-![](https://lh6.googleusercontent.com/tCJo3x3K0npgVfB1Mn32CoADcGDEX44XNjXf64aY2o69WAZXNKdVFW2ODaaNLUrlYEhB60Mm326lqnLLpYxd8PrTMc2vPA1EeqrlYI6QTYO-m4Mxeu85fRJFiVJu819xaw=w1280)
+![Logo uses progressive disclosure to prompt users to specify where the item was found](./assets/phase-1/expanded_view.png)
 
 ### Progressive Disclosure of Search Information
 
 The search bar on the homepage is initially minimal, but after the user clicks, a map of where the location was lost is animated (a google maps styling from [SnazzyMaps](https://snazzymaps.com/style/72543/assassins-creed-iv).
 
-![](https://lh5.googleusercontent.com/n_TW17z_mqgx8w76_gkzZvszUDeZ7wLq5yPUeJBHSM7nIxm0of42aLcGCoc87OAK5QNrPQY6xkfFUsSKyC8S4wbuMSkNMis4i_2aRD7mEp6ps8YGGaHlRuL181V-jjBGOg=w1280)
+![Selections have both a list and map view](./assets/phase-1/selection%20view.png)
+
+## Information Design
 
 When searching for your item, multiple ways of searching for your item are built in. 
 
@@ -67,13 +86,17 @@ A map view provides an at-a-glance look at where items were found, better for wh
 
 A list view takes inspiration from online shopping websites when displaying information. The user already knows which item they want, however, so the image could be smaller and more emphasis be placed on where and when this item was found.
 
-![](https://lh6.googleusercontent.com/M26UA6KFwKUIyEgm9j5MUldhRcneF28CiAYElAFuLhZ3Qm6N05hiDH3Uy7fD1DvBid-F2mg9JZrXoSGmXWmzyZa7axYBnf0rQXwIjksgIfEnMa_2jwVJhXOhz0vD1DO9eg=w1280)
+![Designs for claims are fundamentally NOT scalable](./assets/phase-1/)
+
+## Page Design
 
 This page was inspired by Instagram's profile page.
 
 However, a deviation is made by showings items the user has claimed in the top right. Most apps would object to this design because claimed items do not scale elegantly. This becomes a feature of Hoo's Got It as it conveys to the user through the interface that they should not be claiming many more than one item at a time.
 
 Listing how many items someone has returned provides social proof and satisfaction for returning items, intending to be intrinsically motivating.
+
+## Research and Analysis
 
 - There are limited solutions to this problem that have already been implemented/ marketed
  
@@ -113,7 +136,9 @@ Listing how many items someone has returned provides social proof and satisfacti
 
 ![](https://www.google.com/images/icons/product/drive-32.png)Interview Template.pdf
 
-Interviews were conducted using the question set shown to the right. The following  each question were the major findings for each topic
+Interviews were conducted using the question set shown to the right. The following  each question were the major findings for each topic:
+
+### History of Lost Items
 
 - Have you ever lost something on UVa Grounds before? If yes, were you able to recover it?
  
@@ -122,7 +147,8 @@ Interviews were conducted using the question set shown to the right. The followi
 - If a day has passed since you realize an item has been lost, is it more difficult to find? If so, then explain.
  
  - "It is extremely difficult to find an item past one day.  Most of the time, especially if you lose it in a lecture hall or some large space, someone will come to collect and dispose of the item.  Also, you have to constantly retrace your steps around grounds, and that can be a very tedious task"
- 
+
+### Lost and Found at UVa 
 
 - If you lost an item in Newcomb Hall, where would you start looking for the item?
  
@@ -162,6 +188,7 @@ Interviews were conducted using the question set shown to the right. The followi
  
  - "I think location-based apps have their usefulness.  I just wouldn't want another app on my phone constantly tracking my location.  Sometimes it feels like an invasion of privacy but I guess that's just how things are nowadays.  So overall I wouldn't mind more location-based apps, as long as there are restrictions"
  
+### Existing Solutions
 
 - Have you heard of existing GroupMe or Facebook communities set up for lost items? If so, have you used them?
  
@@ -178,6 +205,7 @@ Interviews were conducted using the question set shown to the right. The followi
  
  - "Yes I feel like it would be morally satisfying to me.  As for time, I would want the person to retrieve the item from me.  I found it after all, I wouldn't want to run around and try to schedule a time to meet the person"
  
+### Trust
 
 - How important is knowing you returned an item to the right person?
  
@@ -195,6 +223,7 @@ Interviews were conducted using the question set shown to the right. The followi
  
  - "Yes I think it would be useful.  It would give me a little more reassurance that the item I'm returning actually belongs to the person" 
  
+## Interaction Notes
 
 Users were given the prototype to test and were told that they were initially someone who had found a water bottle and wanted someone to claim it. Then, users were told that they were in the position of someone who wanted to claim a water bottle that they had lost. Finally, users were told that they were again the poster of the lost item and had to find out the rightful owner.
 
@@ -207,6 +236,8 @@ The posting item-tracking interface was very familiar to users and some commente
 Some people were a little confused as some posts were greyed out, not immediately understanding these to mean the posts were historical and the item had already been returned. This is likely only due to the fact that the user did not create those items initially. However, an additional modal for this screen should be tested.
 
 To expand upon this design in the future, a modal popup will be best tested which will give the user an overview of the app upon installation to provide initial context. 
+
+### Economic Considerations
 
 We believe that the reason why an existing solution does not exist is mainly due to the economic considerations associated with this problem. 
 
@@ -224,13 +255,13 @@ To accommodate for this, the claimer would be able to send a shipping label dire
 
 This would then be shown to the finder in the app. They would be able to get a shipping label for this item, all while not having to reveal their name or identity. 
 
-![](https://www.google.com/images/icons/product/drive-32.png)AWS Pricing Calculator.pdf
+<div class="JmGwdf SzkQif" role="link" tabindex="0" jsaction="click:QNTBYd" aria-label="Drive, AWS Pricing Calculator.pdf"><div class="t0pVcb"><div class="TZchLb" style="background-image: url(https://drive.google.com/thumbnail?authuser=0&amp;id=1vTC4ZxUhDH0yGfvmPEm0jYE1TmQj2IFi&amp;sz=w339-h295-p-k-nu);"></div></div><div class="pHBU0d"><div class="ojy9Ed"><img class="McKOwe" src="https://www.google.com/images/icons/product/drive-32.png"><span class="pB4Yfc">AWS Pricing Calculator.pdf</span></div></div></div>
 
 Achieving a net-zero margin with this model is based on a small minority of situations in which shipping is the only option.
 
 To determine the feasibility of this monetization method, an AWS cost calculator was generated for this app at a hypothetical number of users at 1,000 monthly item finds. 
 
-This marginal cost of $14.33 implies a break-even item ship rate of 0.71 %. Hoos' Got It's economic model is closer to a mobile game than a traditional social network due to its [uneven customer value](https://medium.com/shopify-gaming/mobile-gaming-is-a-50b-industry-but-only-5-of-players-are-spending-money-f7f3375dd959).
+This marginal cost of `$14.33` implies a break-even item ship rate of `0.71 %`. Hoos Got It's economic model is closer to a mobile game than a traditional social network due to its [uneven customer value](https://medium.com/shopify-gaming/mobile-gaming-is-a-50b-industry-but-only-5-of-players-are-spending-money-f7f3375dd959).
 
 After developing our prototype, we showed it to potential users to obtain feedback
 
