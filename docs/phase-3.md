@@ -1,9 +1,9 @@
-- **Project manager:**  - Caleb Adam \- Responsible for managing and organizing the team to get the project done. This person should organize meetings, take notes, make sure action items and tasks are clear, and make sure other team members are getting their jobs done.
-- **Research lead:** - William Kaiser\- Takes primary responsibility for the research/analysis portion of the work.
-- **Design lead:** - John Parzick - Takes primary responsibility for the design portion of the work.
-- **Prototyping lead:**  - Hunter McGuire \- Takes primary responsibility for producing the rapid prototype.
-- **Evaluation lead:** - Distributed Among the Group - Takes primary responsibility for evaluating the design.
-- **Reporting lead:** - Distributed Among the Group  - Takes primary responsibility for putting together the project report. This is a wild card role, which means it would be a secondary role that should be picked up by each member during each one of the five project phases.
+- **Project manager:** \- Caleb Adam \- Responsible for managing and organizing the team to get the project done. This person should organize meetings, take notes, make sure action items and tasks are clear, and make sure other team members are getting their jobs done.
+- **Research lead:** \- William Kaiser\- Takes primary responsibility for the research/analysis portion of the work.
+- **Design lead:** \- John Parzick \- Takes primary responsibility for the design portion of the work.
+- **Prototyping lead:**  \- Hunter McGuire \- Takes primary responsibility for producing the rapid prototype.
+- **Evaluation lead:** \- Distributed Among the Group \- Takes primary responsibility for evaluating the design.
+- **Reporting lead:** \- Distributed Among the Group  \- Takes primary responsibility for putting together the project report. This is a wild card role, which means it would be a secondary role that should be picked up by each member during each one of the five project phases.
  
 ## Synopsis 
 
@@ -15,19 +15,17 @@ We also used information gathered from our Design Studio I and II in class Activ
 
 The Design studio was also beneficial because it allowed us to learn how to verbalize our ideas.  The act of presenting helped us formulate what areas of our project we excelled on, and what areas had gaps in them.  For instance, we did well in tailoring our project to two types of users, the student and the instructor, but we realized that we lacked decisiveness in the numbers of interfaces we included in each page.  Additionally, the questions we asked provided great insight into the potential success of the project.  For each group, we asked them about how practical they thought our system was, and how likely they would be to use our app.  Many students said that they would use it, and that they felt it would help them become better organized.  This was very reassuring to us and motivated us to continue to improve on our design. 
 
- 
+![Design studio poster board](./assets/phase-3/design_studio.jpeg)
 
-![](https://lh5.googleusercontent.com/1LMs1f3dUCiThmbF0nKrQTjMzrmaIvD1MY8kJ7LWT1oT2zckghRu21trMzFWxG4UaHeohmvVMJrbWEF2XFV-7xb9jgzseto2WRfOb9uTg2g7Ro_E51Lk_f6G9VLgFTIdcA=w1280)
+> Image of our Design Studio Board from Design Studio I & II In Class Activity
 
-Image of our Design Studio Board from Design Studio I & II In Class Activity
+![Presenting the design studio](./assets/phase-3/presentation.jpeg)
 
-![](https://lh6.googleusercontent.com/N_0wiL6-RFpkLXj5Ecivw56GPAPqyxGv3PmtGFmRcjdEXPEWrU2hORl_q5kJlKOiqIGIZubndgEBvIUoLcOry6jfRTemE_asSyqH_GniUseFsLSg06oYLKdMZdOM1ox2oQ=w1280)
-
-Presentation of our design to one of the groups.  This activity helps us organize our own ideas on our design as well as allowed us to get feedback from other people.
+> Presentation of our design to one of the groups.  This activity helps us organize our own ideas on our design as well as allowed us to get feedback from other people.
 
 To begin developing our persona we took a hard look at our WAAD to find similarities between the people we interviewed. We thought about the traits that our interviewers possessed and how they related to our work domain. We took our work activity notes and classified them by our two users, student and instructor knowing we had to end up with two final personas, one of each. Each member of our group wrote down a list of traits that they thought embodied our interviewees and we used the comparison of lists to synthesize a couple of traits that we felt were most important. We noticed a common theme of discontent within the group work environment from part of the students. We factored this into our persona while also trying to keep them non-biased. We attempted to use a diversity of thought to capture a wide range of personas and used that to narrow down to a mutually agreed upon final two personas. 
 
-![](https://lh5.googleusercontent.com/d-mWzA9_kKsitGfsId043QK__HS84AOPlRpT-UN4fixYIEUsQ7iS79l3mlqv7zNkVE3SS5D1Kh_scEnJKbf6anqE4OVfI8Do7c8P9D3TnsU7Z7ldv4tXXu4dMYbiVPzwEQ=w1280)
+![Gerald Froople Headshot Shows a Friendly man full of joy](./assets/phase-3/gerald.jpeg)
 
 ```toml
 [bio]
@@ -45,25 +43,25 @@ As a leading member of UVA's capella club, *HullabHoos*, Gerald is an accomplish
 
 Gerald's passion for community service and dogs is also a big part of his life. He volunteers regularly with local organizations and animal shelters, using his skills and knowledge to give back to the community. Overall, Gerald is a well-rounded individual with a strong sense of purpose and a deep commitment to his passions and values. He wants to take these skills into the professional world as an engineer or designer and values group work very much.
 
-![](https://lh5.googleusercontent.com/RRmhDDIZYu_3Fx2RTaM9SV7S8i1KfXjnHH2A2RdnwNaRkPyox5tdYHYIUbcd04GTDJnBGwPWQEN9NweZNkTQeHavXm-EamDXqJk1lqLf5ZrizsYxvrr41RCoGrnZxRkxJg=w1280)
+![Gerald Froople's R&B Album](./assets/phase-3/album.png)
 
 > Gerald loves R&B and even decided to make his own album!
 
-![](https://lh4.googleusercontent.com/O6ZO5gI5GmlQAsv6wolmTYplH9XG30LnBjPumhh8FN0ksNWIkz1dQIeIQzbPJV_05L6RcYYJU_JgY4RiduPZdnOBzmX9iPGYXPkdltSn9DyCNKNC9kCdPm35uBdiERf3bQ=w1280)
+![Gerald Froople's Christmas Card](./assets/phase-3/christmas_card.png)
 
 > Gerald likes sharing the holiday cheer
 
 ### Gerald's Diary Entry
 
-Groupwork is difficult for Gerald and this is something whch he has conerns with himself about.
+Group work is difficult for Gerald and this is something which he has concerns with himself about.
 
-![](https://lh6.googleusercontent.com/y1Sln-ZDG4yKOSJAt1ClKGB9W6uvNiH6nKgGVVnu-vIHZq3fK9_8GtwggZt26vEsDgmMOOJZHuO5FFrM9n71870=w1280)
+![Gerald's diary entry](./assets/phase-3/diary_entry.png)
 
 ### Our Justification for Picking Gerald
 
 We decided to pick Gerald as our main student persona because his eclectic mix of outside activities coupled with his computer science major made him a good persona. He is in a heavily dependent group work-based major and is obviously extroverted while also being a hard worker. He is driven in group work and is a great candidate for group participation. His goals and experiences align with a user for our app which is why we ultimately chose him. Gerald's commitment to improving his group's work/ work ethic makes him a desirable persona for this project.
 
-![](https://lh5.googleusercontent.com/nzmXvHhl-m4Q3F0GihEcTdZcoBZb0ANWkM6NpHMhsDcW8_UPOltATgmr47BKrLGQWeSr3YQFDm6h4bAufIom1FT8smVZ9JWIt9GMLe75-zIZFJ1CiY3FiAacq-WUpxntVw=w1280)
+![Stacy Lacy](./assets/phase-3/stacy_lacy.png)
 
 > Stacy walking to class on the first day
 
@@ -72,7 +70,7 @@ We decided to pick Gerald as our main student persona because his eclectic mix o
     "school": "UVA",
     "year": "1st Year",
     "from": "New York, NY",
-    "major": "undecided"
+    "major": "undecided",
 }
 ```
 
@@ -84,9 +82,9 @@ Being an out-of-state student Stacy finds group work difficult and the climate d
 
 While we think that Stacey could benefit from a service like *Hoos On Task* to hold her accountable for her group work and help her get out of her shell, her lack of commitment to group work may make her a less applicable persona than someone like Gerald whose problems lie in lack of group participation as opposed to personal participation in group work like. 
 
-![](https://lh6.googleusercontent.com/vRyVPWAyYyL5CtwuNhAyjY2ViWf1tUnySIb7Dn2uc-0OAvCbpTDIBeN53FMqibS4jj3DsHf8YIGmwaIedbxFIBShwobTzzNvjNdWt9zIuE4MK-KqHfjpQ5smCY7B8QEDAA=w1280)
+![Joseph Smith](./assets/phase-3/joseph_smith.png)
 
-Joe in his office after a glass of wine
+> Joe in his office after a glass of wine
 
 ```json
 {
@@ -95,16 +93,17 @@ Joe in his office after a glass of wine
     "department": "Economics",
     "from": "Phoenix, AZ",
 }
+```
 
 Joseph Smith is an economics professor at the University of Virginia. Joseph grew up in Phoenix, Arizona, and attended UCLA. He has two children, a loving wife named Grace, and two children ages 12 and 16. He enjoys cooking, and hiking, and is an amateur-professional fisherman. He is a very family-oriented person and despises dishonesty. He is a relatively introverted person but greatly values the few relationships he does have in his life. Joseph teaches an upper-level economics course that focuses on the application of economics to real-world problems through case studies. As such, group work is a critical part of his cause and part of what makes it applicable to the real world.
 
 Joseph had industry experience prior to his time teaching economics in strategic consulting. He was a hard worker and only teaches for something to do in the midst of his retirement. He is close with his co-workers but has a hard time trusting people because of previous life experiences. He is proficient in Microsoft office programs and prefers those to other technologies. However, Joseph has realized it is very hard for him to gauge student engagement as the only metric he uses for group participation is CatMe. He hasn’t put much thought into group-making and has for the most part done it randomly. He feels as though students are often dishonest in their self-reporting of work and desires a better way to monitor his class’ group work. Often he worries his students do not care about learning the material, but maximizing their grades and tries his hardest to engage his students.
 
-![](https://lh3.googleusercontent.com/Jq478F7Swg3QBjjVQgc1DkGd2JBcsETsR6y_ee__8a2iQ3Skr2I5y3SzzWOfaTXRnxvDmptQKdHteP4roXciBJ6nBk0i01KJVSabsQ7Y_H2qhhhIJhv8UerJAvN8TodfjQ=w1280)
+![Fishing Tournament](./assets/phase-3/fishing.png)
 
 > Amateur Fishing Tournament Ad
 
-![](https://lh4.googleusercontent.com/oSzc0EEi2JISVYYcwTK17ynBCaKxwWGedSnL4Fe-oM36aVhFpw29liGPHfDAkyU6TyR304GL_V1k4WfJslD-fLcipnBJPFSz0B0i1spPEc7qHWM_NJPdZTfSkWg_JIgS2g=w1280)
+![A red t-shirt which talks about his 50th birthday](./assets/phase-3/birthday.png)
 
 > Joseph's 50th birthday shirt
 
@@ -112,7 +111,7 @@ Joseph had industry experience prior to his time teaching economics in strategic
 
 We chose Joseph as our Instructor persona because he fits the criteria well. His nature as an untrusting person is in line with the characteristics of an instructor who would utilize *Hoos On Task*. Additionally, his commitment to student engagement and group work makes him a desirable candidate. He balances introversion and Collaboration in his own life which are characteristics that align well with our current system. Additionally, He wants to be able to monitor his students more effectively in group work and has trouble communicating effectively with said groups. 
 
-![](https://lh5.googleusercontent.com/efMrV2l1syqipZnVQmoBeNgzDZ3UYL088Wuag-xCdxmqibeyMbQTxtHkF0angXSyHFmKlt6Y_emizAOLKe5Hx_F4WwceNTHbmyY2cRQTrOVK1t5iKPGIAiUtIueMNMjqzA=w1280)
+![Alexis Volkov](./assets/phase-3/alexis.png)
 
 ```toml
 school='UVA'
@@ -190,25 +189,27 @@ Another critical piece of our design planning and ideation was the feedback we r
 
 She did suggest, however, to not "clutter" our pages too much.  She said that part of our app's appeal is how it is simple and also easy to understand.  She said that too many tabs, layers, and functions would create confusion among the user which would go against our ultimate goal of creating an organized way to structure group work.   She said that we should make each tab concise to 1-3 functions, and that the layout of these tabs should be in a way that is widely known across multiple apps.  This is something we internalized and followed through with during the subsequent stages of our design process 
 
-Additionally, she recommended that the professor page should be accessible on the web as well as on an app.  She said that in her experience, most professor tend to do their work on their computers, and by having *Hoos On Task* available to them via their desktop or PC, we would add another layer of ease of use.  She also pointed out how the metrics would be more easily visible on a computer as opposed to a mobile app, so any trends or disgrepancies that a professor might notice should be displayed on their computer.  For instance, if an instructor wanted to meet with a group and show them their metrics, it would better to view these metrics on the computer.  This was excellent advice for us because it highlighted a simple fix that we initially overlooked. 
+Additionally, she recommended that the professor page should be accessible on the web as well as on an app.  She said that in her experience, most professor tend to do their work on their computers, and by having *Hoos On Task* available to them via their desktop or PC, we would add another layer of ease of use.  She also pointed out how the metrics would be more easily visible on a computer as opposed to a mobile app, so any trends or discrepancies that a professor might notice should be displayed on their computer.  For instance, if an instructor wanted to meet with a group and show them their metrics, it would better to view these metrics on the computer.  This was excellent advice for us because it highlighted a simple fix that we initially overlooked. 
 
 ## Rough Sketches Developed During This Period
 
-![](https://lh5.googleusercontent.com/LUYY67ErOV-I5lfMdWNPtkp6qIZxSPP73V27482pRs2bgVAhmou82a9SNL5a9rjc8aV_yOHyThNNFGO9dfsjpgNbsdYqh4ObfVRCllSFcqE-iRCZC440GVwDtPwLcbjDVA=w1280)
+![Student home page](./assets/phase-3/student_page.jpeg)
 
 > Rough sketch of the student home page
 
-![](https://lh6.googleusercontent.com/MDtzJ59xCVEUNLCsCy6yrwfov5FD0snQ1HZjxqTJVG3kOb5USLxL4hl2ZPMGzoC_vr_mUAVBWDPQIlpXSVReAr872gy8boxzcht3jsJA4cwlKsPppqiZhrgQSY_uigNQeQ=w1280)
+![Homepage to tasks interactivity](./assets/phase-3/student_interaction.jpeg)
 
 > Sketch of individual pages within the app
 
-![](https://lh4.googleusercontent.com/gH4peNgu0NrVvf4QomxE-snpB6WuuxT71F_l2--BATePtANcxQ_q8WB8FfblmAUhrOXB5v91sPqfBgyIe948rHDfdXkN1-7Gzqm6vmNjKOewys5RiiJpF8a6vjqu3McYPA=w1280)
+![Student interaction](./assets/phase-3/second_part_of_student_interaction.jpeg)
 
 > Sketch of the the assignment and chat page 
 
-![](https://lh3.googleusercontent.com/FEb4cgavcVw-n5afqwQN5Jhn4GEHPiNduUxwPnQayX5Lrc3zPjrs8Ie1YsynoUya70vFoDV4md1Yl2GsfgFCpXSLZn8hHTIyKg0BzsjWF4xgfmrFtURQ-wGqlUdTpGLVMw=w1280)
+![Pointing at stuff](./assets/phase-3/discussing%20interactions.jpeg)
 
-Sketches highlight the initial ideas presented to our client as well as rough sketches that were modified after our conversation.
+> Sketches highlight the initial ideas presented to our client as well as rough sketches that were modified after our conversation.
+
+## Mockups
 
 Since our project is an app, there will be no physical interaction between the system and user.  As a result, we did not include any mockups.
 
@@ -253,97 +254,119 @@ Another breakpoint that we identified was maintaining the connection of simplici
 
 ## Conceptual Design : Ecological Perspective - Within External System
 
-![](https://lh6.googleusercontent.com/VRnuS0ohPKGHOeYvx7my42MAtZu0Fw3E32Wql3Mw10EXmG7pmN5laXJV1_Lru0g4PAs6CARpdGnFwKhSWsvZqopcnYP3oDwarAipYpZUCSc2EaoeUnw8QmgyfCwikAPxow=w1280)
+![Ecological perspective which shows Hoos on Task Central](./assets/phase-3/ecological_perspective.png)
 
 In this model we were focused on relating the role that our App plays in the external system of group work within a class. Specifically, it was important to show which steps of group work *Hoos On Task* is designed to aid with, because given previous feedback this was a breaking point in the mental model of the designer vs. that of the user. The app is designed to aid the user with organization and simplicity in the actual process of completing group work, and this diagram helps show what part of the group work process *Hoos On Task* is specifically helpful with. This design is especially important in reinforcing the cognitive affordance of what users and client will be using *Hoos On Task* for. 
 
 ## Conceptual Design : Ecological Perspective - Internal system
 
-![](https://lh3.googleusercontent.com/bcyHOWIpH9QXoDR5tXTAeJtvheAMKbf9rjgWERP-niUBTn8ReW_MJWUSs3sbrn779Kxk21u30RLDd14dDO1fJ4133uXqu0vHst0b9_skvUsCLmJiQsrrXyzRPbviaNQpbw=w1280)
+![Ecological perspective in the internal system which is present here](./assets/phase-3/internal_ecological.png)
 
-User flows for both professors in students. The professor has a home page which provides an at-a-glace view of each group. The studenet's homepage has all of their tasks, a link to the groupchat, a link to qestions and a link to meeting. The homepage was designed to show task and meetings without forcing the user to click on them. However, clicking on the task provides an expanded a focused view. It is also important to note how while students who login on their phone will be directed to a home page that then allows them the full functionality of the app, professors logging in on the app will be directed to log in on a computer, as their site is not mobile-supported. This was a decision that was made from feedback. 
+User flows for both professors in students. The professor has a home page which provides an at-a-glace view of each group. The student's homepage has all of their tasks, a link to the group chat, a link to questions and a link to meeting. The homepage was designed to show task and meetings without forcing the user to click on them. However, clicking on the task provides an expanded a focused view. It is also important to note how while students who login on their phone will be directed to a home page that then allows them the full functionality of the app, professors logging in on the app will be directed to log in on a computer, as their site is not mobile-supported. This was a decision that was made from feedback. 
 
 ## Conceptual Design : Emotional Perspective - 
 
-![](https://lh6.googleusercontent.com/MtqeAuMaed8FyQeRdfh4OEY48K6qIG1AV7xdN4gSsxD3r2JluYOG2y7XWLDd0ZtNHSb0VKLPKGFug0MjRUTi8htB2rNWwC0hjU7GK5NlZnIEGwS2tmYqx-k4ng2gJ1LvhA=w1280)
+![Emotional perspective from both the student and professor's perspective](./assets/phase-3/emotional_perspective.png)
 
 This conceptual design is meant to show what both students and professors stand to gain emotionally from *Hoos On Task*. This diagram illustrates the main benefits of *Hoos On Task* toward both client and user with respect to emotional impact. Keeping accountability for students in group work can be both stressful and cumbersome for the client, and confusing and frustrating for the user. *Hoos On Task* alleviates these issues by centralizing & easing accountability, and allowing the user to be properly graded and weighted.
 
 ## Conceptual Design : Emotional Perspective - For Students
 
-![](https://lh5.googleusercontent.com/_yAVxmWIhpioMLvTYJNd7_PbarHCAnhOBUTwWKy11-C1xRDEaelYsBeol4-jkVFI0FY5wb_o-WKqYP-M2g8Cn44yqKyi6HzPlcit3VygPAWpbjbQ8Q8ph9t4prZe9B_fNg=w1280)
+![Conceptual design emotional design for students](./assets/phase-3/emotional_student_perspective.png)
 
 This conceptual design shows the emotional impact of *Hoos On Task* for the user. Specifically, how removing confusion increases user self-confidence, how creating accountability for group members removes stress over fair-weighting for grades, and how boosted organization reduces the likelyhood of stressful situations such as having to do the whole project at the very end. 
 
 ### Conceptual Design : Emotional Perspective - For Professors
 
-![](https://lh3.googleusercontent.com/WzCzTYNyjcx0G3eYbDs7RFMjK-a5n2iwD8OfU5FU_AuhbtU59pmQ7Yin1O7ocmy9aPjB5Ur9-7fYNYlwM8JdSHc7iuVltz3PAQ1SjMQ2uIqpsIEDwCtdaBh-kOD-ArsTpg=w1280)
+![Emotional perspective for stress, uncertainty and adds confidence.](./assets/phase-3/emotional_professor_perspective.png)
 
 A key part of the value proposition for *Hoos On Task* from an emotional perspective is the moderating effect that *Hoos On Task* can have. Proper organization is very much a preventative medicine for stress, uncertainty and a lack of confidence. *Hoos On Task* keeping everyone organized, accountable and transparent prevents situations from devolving.
 
 ### Conceptual Design - Interaction Perspective - with external devices
 
-![](https://lh6.googleusercontent.com/44q7Yge9hbVWrnbLlzSOMxDebHMVEkn0Zl3AOGhDgPE9w4JwIEmasN1pBS10VT_EJBYKmcm-8-4tRIqmVq7ErbwoNvuhb9gb0sc1V_mbXGdp-z8njU5GxEs3dUYZs5NFoA=w1280)
+![Interaction perspective between mobile and desktop usage](./assets/phase-3/interaction_perspective.png)
 
 *Hoos On Task* information design. For development complexity purposes, this app will initially be designed to be monolithic in nature to minimize development complexity. This structure could be changed as needed to use a separate system of chat and the TAs using something like Cassandra. This diagram therefore simply connects the *Hoos On Task* monolithic servers with the people / entities necessary to its basic function. A cognitive affordance we wanted to make especially distinct in this conceptual design, as well as in a few other diagrams, is that the client and user pages are very different, and specifically on different devices. While the professor can login on their phone, they will then simply be prompted to login on a computer, and contrarily users will only be able to access the site on the app.
 
+## Scenarios and Storyboards
+
 When designing the storyboards, there was much deliberation around how to clearly demonstrate the value of *Hoos On Task*. Some group members wanted to show the disconnect where professors valued group work and the students did not. Some group members wanted to focus more on the students. 
 
-Our group worked Collaboratively to develop our two final storyboards by utilizing a combination of individual brainstorming and group discussion. Initially, each member of the group generated several ideas for potential storylines and shared them with the rest of the team. From there, we discussed the strengths and weaknesses of each concept and Collaborated to identify the most promising ideas. Once we had narrowed down our options, we split into smaller teams and began fleshing out the details of each storyline. Each team brought their unique perspectives and skill sets to the table, allowing us to explore the potential of each story from multiple angles. Finally, we reconvened as a group to present and discuss our two strongest storyboards, making tweaks and revisions until we were satisfied with the final product. Through open communication, active listening, and a willingness to compromise, we were able to develop two compelling storyboards that showcase our collective creativity and Collaboration. We included two final storyboards to capture the perspective of both instructors and students
+## Final Storyboards
 
-![](https://lh3.googleusercontent.com/ySOE_JGw3yoHOw342NmXSLTgzQFOQVQhMs3ijyDJZfFbe-fkhqMKuGLC3wV7WolA4EyxyxS5TNgRLcqeOGtARvTiH_207Cjy8-03Ad2SdpfsHsNEqlixmcSNXeNu6NkzZw=w1280)
+Our group worked Collaboratively to develop our two final storyboards by utilizing a combination of individual brainstorming and group discussion. Initially, each member of the group generated several ideas for potential storylines and shared them with the rest of the team. From there, we discussed the strengths and weaknesses of each concept and Collaborated to identify the most promising ideas. Once we had narrowed down our options, we split into smaller teams and began fleshing out the details of each storyline. Each team brought their unique perspectives and skill sets to the table, allowing us to explore the potential of each story from multiple angles. Finally, we reconvened as a group to present and discuss our two strongest storyboards, making tweaks and revisions until we were satisfied with the final product. Through open communication, active listening, and a willingness to compromise, we were able to develop two compelling storyboards that showcase our collective creativity and Collaboration. We included two final storyboards to capture the perspective of both instructors and students.
 
-![](https://lh6.googleusercontent.com/PmhCXqNnUhGhf0qTLcIKD0K3K4VYY3zbTW41FOF3RI4s3Pfslb_4TE1-TZ-Qdx94hm7nHVnAiYQ0U3eeADLMCPe4ovri3T34n0mYW0eFx90C8QMm9m8jitgh5c_YXQ7mMQ=w1280)
+### Instructor Storyboard
 
-![](https://lh3.googleusercontent.com/64Tp4OguUaJM617_kcPanTmHx6kbvfIMeWTGICba8YHWTWTGAdgljmZ508e3gClWLlJ1jbkSi4JSuNE_X3LCVPE_eDcV6_esE99OrpuFJWhMUx3BhHGRVzOnHQc1uirMQA=w1280)
+![](./assets/phase-3/instructor_storyboard.png)
 
-![](https://lh4.googleusercontent.com/Je86wgAuPApPviKHbAijsosDyqZvgvvypB8ivgjjmTOwYNOabs1zTqX80iWVoqX23Ze1UjBr13WNG4LOOjESikWzSv_17j1RG5-Z5G7Xs5D9Evn1sor3ltDbYQfNXYy6DA=w1280)
+![](./assets/phase-3/instructor_storyboard_part_2.png)
+
+### Student Storyboard
+
+![](./assets/phase-3/student_interaction.jpeg)
+
+![](./assets/phase-3/second_part_of_student_interaction.jpeg)
+
+## Storyboard Rationale
 
 For both of the respective storyboards, we kept our personas in mind. From the student perspective, we consider the process from the beginning, which we always envisioned being a teacher forcing their student to use *Hoos On Task* to monitor them. We assumed they would initially not be happy about this but as they understand the app's utility and ability to condense all relevant information they would grow to appreciate it. That is what is supposed to be conveyed in that storyboard. While the storyboard does not display every feature covered in our HTI we felt it was comprehensive enough to cover all of the most important features. As for the instructor storyboard, while keeping our instructor persona Joseph in mind, we developed a story that included the most important aspects of the service for the instructor. Being able to easily upload the roster, track student metrics, and easily give aid where needed. This is the ethos of the service from an instructor's perspective. All in all, Collaboratively we were able to make storyboards that convey so many effects of our system. 
 
-![](https://lh3.googleusercontent.com/7xTV3kJzes0B64yOQauEokUnPQ9uSh5yeSAEAIADiPhDrDZdxrY5oEmBaRK7rhy7FgrU-dfnYyG-Gw0cS13qs3iEpj6rdbcmcy07VCmJ3YVKwiTERaH-rA_JYoLCkIwNBw=w1280)
+## Storyboard Drafts
+
+![](./assets/phase-3/page_one_of_storyboard_draft.png)
 
 Storyboard concept where the professor's stated mismatch between the value they put in group work and the performance they are able to get from groups is focused.
 
-![](https://lh6.googleusercontent.com/0UYkV0RstfKzkSjPOxceaUfTNOlyR1lfFIulwgPlq-o1hQVQUaAzGHWjZqVnz4bykmuGzo4W5Oj58uQD30UAhhEw0zxMD7cb-nrQtGL13fRIgxtbFKfaqRcuQzUP9dQWTQ=w1280)
+![](./assets/phase-3/page_2_of_storyboard_draft.png)
 
 (continued) Storyboard concept where the professor's stated mismatch between the value they put in group work and the performance they are able to get from groups is focused.
 
-![](https://lh6.googleusercontent.com/BBtp1LjeE09X-8NYPhca5GaN51VBR_P3BT5G8YLTdb5a0YbxR89hpmiNNWO2g8euaKULstR6BQs8vUBlJ7MkZKudBvSNP2lECgU5l9H6dYICTXR1a0kpUre0AzjXHwYy=w1280)
+![](./assets/phase-3/features_concept.png)
 
-Active moderation storyboard concept. This demonstrates the ability for  the professor to use *Hoos On Task* to make a moderation. The group liked this, but prefe    / .red to show a student success instead.
+Active moderation storyboard concept. This demonstrates the ability for  the professor to use *Hoos On Task* to make a moderation. The group liked this, but preferred to show a student success instead.
 
-![](https://lh6.googleusercontent.com/apvPv8gcasfhAcJpHam10JHevTHXprve3kvNKnlSi7DtyCCC-26cop1-jAh_G8sH2mBZ-2OzMoqSX9txNQM7WR3caJJPMlK609ExzJPlJeqVJlwFIYEC19Q6RshR5I9Cpg=w1280)
+![](./assets/phase-3/active_moderation_storyboard_concept.png)
 
-Student use case storyboard concept showing the features and touchpoints that the student can utilize to keep themselves organized.
+Student use case storyboard concept showing the features and touch points that the student can utilize to keep themselves organized.
 
-The process of creating wireframes was heavily focused on iteration. First, members of our group independently came up with designs for key parts of the interaction. Namely, the homescreen and chat functionality. This initial independence helped ensure a variation in designs from which the key strengths and weaknesses of each design would be identified. After this deliberation a more refined mockup was created.
+## Wireframes
 
-Some parts of the design, however, required less iteration such as the student-onboarding modals which we felt clearly communicated the value of the product for students as soon as they load the app. 
+The process of creating wire frames was heavily focused on iteration. First, members of our group independently came up with designs for key parts of the interaction. Namely, the home screen and chat functionality. This initial independence helped ensure a variation in designs from which the key strengths and weaknesses of each design would be identified. After this deliberation a more refined mockup was created.
 
-![](https://lh3.googleusercontent.com/PUItkcOk2wjEZfnb0Du0-COpJNr07pE7v8Ybad9mx8v3fVq6SAm0vHWJeWlCLrppXOD6T6By0L12Skyk48alzm7nygxmRXJcYpAm6EqfsnBbtveWAV3mGx4pjEJm0kgIKQ=w1280)
+Some parts of the design, however, required less iteration such as the student-onboarding modals which we felt clearly communicated the value of the product for students as soon as they load the app.
+
+### Professor's Wireframes 
+
+![](./assets/phase-3/file_import_modal.png)
+
+### File Import Modal
 
 If professors have existing files with students information in them, they need to be able to easily import them.
 
 The file import utility reads the file and extracts the columns. Because the system does not automatically know which columns is which and we do not want to force the user to specifically name columns in this sheet, we require a matching utility. 
 
-This modal seperates the necessary imports (name, email and optionally group) from the extraneous ones which is whatever else the professor has in their sheet.
+This modal separates the necessary imports (name, email and optionally group) from the extraneous ones which is whatever else the professor has in their sheet.
 
-![](https://lh4.googleusercontent.com/UkbVYezEyr9Qp7yjGbsROFzIT46E2g8oh22dh0Xsd1ifKpApM092hAL6ED07NaJ1_-8ZGXad-I36rFh2h_LhCN2zNK2ikSlBgqGTY2FnyGfA0ZCNsHwf-5yi2LnLDWgm5g=w1280)
+![](./assets/phase-3/import_screen.png)
 
-Professors initally create groups by importing the class. By default this import will be manual. However, by clicking on the bulk import button on the top right, the professor has the ability to import from either CSV or XLSX. 
+### Manual Import Screen
+
+Professors initially create groups by importing the class. By default this import will be manual. However, by clicking on the bulk import button on the top right, the professor has the ability to import from either CSV or XLSX. 
 
 After importing the class, the professor can use the checkbox to select students and form a group. We liked this checkbox interface because it bears similarity to email tools. 
 
-![](https://lh5.googleusercontent.com/5AGb59-bxwmxPxRhDa8je80aOvKAnH0gIDFguG-EcTzWJ3CvS4XLG2jFpp21y4mh_jXjKB1HwKuGBSR84gW6B8fOKWhFn-iSjCZ5uSyXhIxspdCcgWafgTEjFAsNg37_KA=w1280)
+![](./assets/phase-3/professor_group_page.png)
 
 ### Early Version of Professor Page
 
 This was a rough outline of the professor's dashboard where we were planning out the relevant information to be shown on each page. 
 
-![](https://lh3.googleusercontent.com/LrRPaMH0gIo9TDokoNdFJEdpqX9xbFeW_kKnEzzbPgsmbml8edfcfe7faeLVySKdFsvGg5ZyvufErS-NKh_EqxDz-ETInKWzXKOg-CUXlCkW2_GDUOvxnQcz69Nl-iVAWw=w1280)
+![](./assets/phase-3/)
 
-This is an early design for the import file wireframe. There are two main columns, the key columns which are name, email and group and whatever additional columns were in the document that the professor uploaded with the excel file. 
+### Import File Wire Frame
+
+This is an early design for the import file wire frame. There are two main columns, the key columns which are name, email and group and whatever additional columns were in the document that the professor uploaded with the excel file. 
 
 ![](https://lh6.googleusercontent.com/BpPYyL4t1Vy-e2GT63e5T4KGRVP2Qywmt4P5tQnmJYJUTQxTsZ2zrc7dQ84MW_bAs094zzhMoohqYTUuA_vaXmAsW-Se4--9TgGCUqSpToFFcd4qRTPO1VaiWB--BrBYNw=w1280)
 
@@ -351,7 +374,9 @@ This is an early design for the import file wireframe. There are two main column
 
 In this early plan for create class we liked a pretty standard form with a linear layout.
 
-![](https://lh5.googleusercontent.com/kI9DC97Ne4WNFl-EVkYK2jmX5U1cynyCmIgmg9EjlXujuo4ByRKWF15xml89t4Qjrj8MxDNgbdwQ81yc1rVf08x5LnNgqOXGbFf77looG5oD7qkBeIMRtwwflhHOXrMQog=w1280)
+![](./assets/phase-3/professor_brainstorming.png)
+
+### Professor Homepage
 
 When initially planning out the professor's dashboard, we though of having a group list view which shows an at-a-glace view for each group.
 
@@ -361,13 +386,15 @@ Also of note is the group info page is the split-pane design between a Google Dr
 
 Furthermore, there is a send help button on this page for delegation to TA. We thought that completing this though a micro-interaction (rather than a separate form) would make this interaction faster for the professor and reduce context switching.
 
-![](https://lh3.googleusercontent.com/ZVu-V2rlttjNgFT5Ju3jpVQRyY6SGyEgxyz7ZEjMQNbAfDW7QOv8WXWKacfHsGCqY7cuyaiXUOpD8YGtEwxtuRbFEShaCXbsFm_lCbFkjj5416kxdc6LDg5aW4f29uFcgg=w1280)
+![](./assets/phase-3/professor_group_page.png)
+
+### Professor Group Page
 
 This is an alternate version of the professor's page which a groups contribution to Google Drive as a graph as well as other miscellaneous information. 
 
 While the information contained on this page was less flushed out, we liked the permanent navbar as we felt that it lead to less ambiguity.
 
-![](https://lh4.googleusercontent.com/vDhfGCxgwfGByDD2HZlm8Jk_5D3hpPXGhweNHIQHq0V2Cwu6vq3shIvotpOyY4nrPRL9LV3ymf1e4_xwNFhEnGOsFSe1J2gQZmMMbGKvnbCYJEiJL7CSkPAjtsLHc1_T=w1280)
+![](./assets/phase-3/student_wireframes.png)
 
 ### *Hoos On Task* Student Welcome Modal
 
@@ -378,7 +405,7 @@ Following the UX Guidelines, this modal was careful to tell the user what they c
 Finally, on the bottom, there are two circles which show which page of the onboarding the user is on through the dark circle. 
  
 
-![](https://lh6.googleusercontent.com/6rsYBupCxuej-c0ke7E8eQIttUUxsMBQ7S1m4FhfqpXXdPmMmfC0f0asmnnnut6QyV5RPBsHpUL52yTXW3RsdXIPfDRGgjXl0BWPAip3IiRuBw9yFE70mN7mpgSbN6jQxQ=w1280)
+![](./assets/phase-3/one_boarding_part_2.png)
 
 ### Student OnBoarding Part 2
 
@@ -391,7 +418,9 @@ The goal of this modal is to introduce the user to the concept of `@` in the con
 
 These features are critical because they are what distinguish *Hoos On Task* from iMessage and other competitors. This is important because establishing the value proposition of *Hoos On Task* immediately is how students are.
 
-![](https://lh3.googleusercontent.com/ppPIypMGIh_WMHJlYs1PHY2OzNK2RyrXNc3LV_muZwCk_bzCkNstIUmNU0sa34MSrHAS-Rb8V79SjKah2x9AKDWQaiaxJu7GjLNC9NJodf7i5KexTcnG8ET1o7T00-rEzA=w1280)
+![](./assets/phase-3/groupwork.png)
+
+### Groupwork
 
 This is one of our early concepts for the chat screen.
 
@@ -401,21 +430,27 @@ We though that adding meeting information in the bottom area of the screen which
 
 However, in later designs, we decided to move away from this approach as it was less specific.
 
-![](https://lh5.googleusercontent.com/950SVSUV73MJfOQ82Oq8G7AEcG4-MshhBSHA0cGeGICdEqm-qPxvK_WU7E3F93q-Zjj5jYyAqihuMStwuIiznDDakhdpE_zVBUrjOJUfVpHX4KuapshiOZMqNJmLspEprQ=w1280)
+![](./assets/phase-3/student_site_wireframes.png)
 
-These were initial wireframes of us planning out student app. 
+### Student Site Wire Frames
 
-A key concept we were thinking about was multi-group management and how to keep all group information displaying on the homescreen while keeping tasks and meetings on the homepage. 
+These were initial wire frames of us planning out student app. 
+
+A key concept we were thinking about was multi-group management and how to keep all group information displaying on the home screen while keeping tasks and meetings on the homepage. 
 
 When discussing this, we liked the idea of having an icon for each group and having this act like a filter where selecting a particular group would filter the tasks and meeting to only that group's tasks.
 
-![](https://lh6.googleusercontent.com/xH0xGzVOurRlQ1e--ip1br2aTDrwlzQTDE68Zek2r9q8l4w4J_w0i1Ry2h1kAGltvvXt6cmPh5oCxp337iR6utcRMe2TOqyfFd4BgHhccME7NGt40eTZrw-GgdvydPwI1w=w1280)
+![](./assets/phase-3/hoos_on_task_main_screen.png)
+
+### Hoos On Task
 
 This was a design considered for the very first screen upon loading *Hoos On Task*. 
 
 Though we liked having a large logo and title and not having clickable content at the top of the screen (where it is difficult to react for mobile users). 
 
-![](https://lh3.googleusercontent.com/x6vI3n41ieeDzV8Iw-asvyWFOCL2f5ztIK5JllrywwS8UJEW_QLQAwL9YqOfhOVE1TeW8UjR0ttzVFWxdQ3V0Wzmlc8DUHm41vONusYWFnjFJMKTwgBh0QgfJCW4BE716Q=w1280)
+![](./assets/phase-3/when_to_meet.png)
+
+### When to Meet
 
 This design features an updated chat section.
 
@@ -423,21 +458,23 @@ The chat section has an information-packed header which shows the next meeting.�
 
 The when to meet modal is basic and employs the drag and  lift method of blocking time which is used by Apple and Google calendars.
 
-![](https://lh6.googleusercontent.com/SFGSkv-jLzekg5MA3AKRlGdKwoxtpSdrOWbh4qZnDuvg8-zNSGEsrBXNgeUCIHn3hhkB6q_rSZNJupq-j4IOoRAwJR-hRXSv1noujX-kAs-OxmMpcRPWxYtIiKbThAFJww=w1280)
+![](./assets/phase-3/student_homepage_variants.png)
 
 ### Variants of Student Homepage
 
-These are some wireframes we used as points of comparison during our wireframing process.
+These are some wire frames we used as points of comparison during our wire framing process.
 
 The first one had a clean aesthetic by displaying the group names and logos to the right and well as actions to the right group names. However, when deliberating this design, we felt that at groups counts greater than two, the design would not scale well.
 
 The lower design was based on the idea of mobile-optimized design with key user actions being closer to the user's right thumb. 
 
-### Final Wireframes and Client Feedback
+### Final Wire Frames and Client Feedback
 
-For ease of communicability, this section will have the wireframes presented to the client, the comments the clients gave and some opportunities for improvement / changes to make moving forward based on this feedback.
+For ease of communicability, this section will have the wire frames presented to the client, the comments the clients gave and some opportunities for improvement / changes to make moving forward based on this feedback.
 
-![](https://lh3.googleusercontent.com/dZxAw_S_fIUISMLRS1RYjOAl8fwuOhbBG4icp53rJCNb147x2AMBHHmtuDEvm-1ke5uCJCyVtnxqRjs6u9-5SLvNG_TfXpCGyS4n0N61DxAb6DsglmBe9LelVes_sbUeCQ=w1280)
+### Professor's Wire Frames
+
+![](./assets/phase-3/finalized_feedback.png)
 
 ## Professor Course Import 
 
@@ -449,45 +486,51 @@ Explicitly stating the types of files which can be uploaded helped clarify thing
 
 One thing they did not like however was the Create and save or Create and notify section. The client believed this was too clever to be useful.
 
-![](https://lh3.googleusercontent.com/eu6DbHPS9o461rmN6n4GCXAx4zZw5A8pIyXMUaLdZJ6jfsZSGrScSd7kh5fdTJ-xgeZszJfGpZUjoAQNG-oXt4JHHuLs_I2jUZkT0FiV7BBhap-6dYG9NSVTfdyVRuMfig=w1280)
+![](./assets/phase-3/dashboard_professional.png)
+
+### Professor Dashboard
 
 This screen is the main dashboard which is the first thing the professor sees (after the course has been setup).
 
 When talking to the client, the context-clues of the Course Number and Section were a nice touch to prevent confusion. They stated that they would like more clarity about moving between courses / section in the UI. 
 
-They liked the idea of being provided group statistics, but this needed clarification as the wireframe was ambiguous in this regard.
+They liked the idea of being provided group statistics, but this needed clarification as the wire frame was ambiguous in this regard.
 
-![](https://lh3.googleusercontent.com/2osN4jmuNO-BFXmcydQQJpSh8Rt-8RWKBsZsT9hpTHpbE2u3hAaniuxjWWmwMpr1gyh0SEVuIeTEOb0LR_rXF7tDJq6IH6E05_zOHKzX2yExLo7PnPeAtH1PAa2v2tXL=w1280)
+![](./assets/phase-3/information_page.png)
 
-## Group Information Page
+## Student's Wire Frames
 
-This page shows the statistics of a group broken down by Google Drive contribution over time (top left), drive contribution broken-down by GroupMemeber (top-right) as well as attendance and general info (emails, names, etc) at the bottom. 
+### Group Information Page
+
+This page shows the statistics of a group broken down by Google Drive contribution over time (top left), drive contribution broken-down by group members (top-right) as well as attendance and general info (emails, names, etc) at the bottom. 
 
 After explaining each section, the client could see the value in it. However, we had to explicitly state our left-to-right logic of group to individual contribution. After this however, the could see the benefit of knowing whether or not the group was working before checking to see if individuals were.
 
-![](https://lh5.googleusercontent.com/n6VQpA7j7sTnq6DaUTcuM3Rsfy6DOF740wCHyKmoX-VHVXt_3hELFIKApm_LaBr__MIGK1j3pjpWGkUUByf8X1-AL9jUkV4A6NkjlDhLLAGubaUvN5ZHECzZKJnHJMd4UA=w1280)
+![](./assets/phase-3/chat_student.png)
 
 Basic chat interface for students. Of note however, is the students group name and icon in the top left versus the traditional center as well as an area to let the student know when the next upcoming meeting is.
 
-![](https://lh4.googleusercontent.com/PriwFrxrFHweJbF8Set9ByKD0q9DKdd0H-wEy0FZFdXO-CpklyW78LgolNXRwc01b3kn-rF8qdCHZdJaY17QRnuV5vTPSVl5oXOyqqMd6DF6C3ZaHWOpaGt-uaHrHDaMyg=w1280)
+![](./assets/phase-3/Homepage.png)
 
 *Hoos On Task* homepage. The top shows the logo and the name. Below that are the groups each student are in as well as the icons to represent them. These icons are filters and clicking them will filter the tasks and upcoming meetings to be group-specific. 
 
-![](https://lh5.googleusercontent.com/ARBRVJjICyMXXTZ-5_Ic8H6Q7urvEEfGTew0foFWlO0wkyt1OTX4emwAJTFlf0oDKksHbN-Jzg8Jo06es9NGvqWfI7U6wxouj9em_O-72QgaCvqH4EdyUjocRBgFLJCx=w1280)
+![](./assets/phase-3/Tasks%20.png)
 
 *Hoos On Task* Tasks bar. This page mirrors the chat layout and the group's name is displayed on the top-right of the page.
 
-![](https://lh4.googleusercontent.com/Jrqm_Rp0c_L6HZqrdRYsPbrIx5zADzUC_rvjBsvv5yBrvTHuppPj30_JJO0BjZB22ljiTOldgcfn883ark_l7dIcM2RWpyZ2v1ZzI6kjby2fTsoJOy_XEoXpb5T4NWxpuA=w1280)
+![](./assets/phase-3/when_to_meet_rough.png)
 
 Meeting scheduling in-chat widget. A primary box below is a calendar view which allows the user to select the times that they are available in the week. At the top, however, is a widget which allows the student to specify what time frame the called meeting will be in. This is important because, filling out a when to meet for the entire week is inefficient if the groups wants to meet in the next 3 days, for example.
+
+## UX Targets
 
 When discussing our project, we identified the professor's user experience to be far more influential as to the success and implementation of *Hoos On Task*. For this reason, key onboarding tasks such as the Ease of Importing, Ease of Reuse, Group Moderation and Task Assignment need to be both quick and painless from the perspective of the users.
 
 For the students, a key point is early introduction to the distinguishing features of *Hoos On Task*. This is due to the heavy competition with other communication apps such as iMessage and GroupMe. 
 
-For metrics, average time on task was used primarily. The goal of this project is to augment the existing process of groupwork. Therefore, our group felt that the increase in speed was the best way to measure the value of this project. Though other metrics such as the number of mistakes would have been also valid choices. Average time on task bakes in the time wasted from mistakes into a more comprehensive metric for success. 
+For metrics, average time on task was used primarily. The goal of this project is to augment the existing process of group work. Therefore, our group felt that the increase in speed was the best way to measure the value of this project. Though other metrics such as the number of mistakes would have been also valid choices. Average time on task bakes in the time wasted from mistakes into a more comprehensive metric for success. 
 
-## UX Targets Used:
+### UX Targets Used:
 
 **Initial performance** - how quickly is the professor able to import there work or roster from a spreadsheet into our interface
 **Recurrent Performance** - For multiple different classes across semesters, professor should be easily able to recreate assignments and group work
@@ -504,22 +547,22 @@ This table is the preliminary UX Target Table that will be expanded upon in the 
 
 ### Work Artifacts Throughout the Design Process
 
-![](https://lh5.googleusercontent.com/5e-c_JOq8zUVSdJxjRGoXuC0tYqMkxPGU6XBufrxJKyBB11HuzuIVMN-ivsA728HKpjz954RAmODF-G9AcS0kSxXF9QkKivPWmR-XW7mUNYxeGjRb-2ous9zSIoZ2APF-A=w1280)
+![](./assets/phase-3/storyboards.png)
 
 > John creating storyboards
 
-![](https://lh4.googleusercontent.com/J1N8lRoHbBVeL5rX78kJJSBqUJ28MZDzr6QrW8p9rczA4lyVvHA3b_eST-wyzH6Lfcw_L3WZon5en63vSdsqXzSKGNLPCy4y8HHgHQlcZcKsqFtO1gDBRopF4VFIg8HgLw=w1280)
+![](./assets/phase-3/sticky.jpeg)
 
 > John making Gerald Froople sticky 
 
-![](https://lh6.googleusercontent.com/-VJR3m-GQCYd13p5B_hAic-fWO40lcHoHpyjObiEsYlSBlCEDQCjShkXbCxI_Pk7b20wMhrbaW9thKONb241nJdrL1ttfKzspATcVHHQK0O3M9UfyQjc1P0sLSfQ8JcVaQ=w1280)
+![](./assets/phase-3/mental_model.png)
 
 > Group working on Mental Model
 
-![](https://lh5.googleusercontent.com/OoVmQ1tSSXkfzjJXG4s76Sbj_raTEZmq_TSFfSRu8DkVP-JAfjCxPpsnDCf8-Rb_hnBnvGm1fY_ZMDN_PFycoZvIZVNCy0RQeb1U5J5qiAl0BTgtspWnLu6rZm96Ol_WiA=w1280)
+<!-- ![](https://lh5.googleusercontent.com/OoVmQ1tSSXkfzjJXG4s76Sbj_raTEZmq_TSFfSRu8DkVP-JAfjCxPpsnDCf8-Rb_hnBnvGm1fY_ZMDN_PFycoZvIZVNCy0RQeb1U5J5qiAl0BTgtspWnLu6rZm96Ol_WiA=w1280)
 
-> Text conversation scheduling a meeting with our client to review our initial sketches 
+> Text conversation scheduling a meeting with our client to review our initial sketches  -->
 
-![](https://lh6.googleusercontent.com/rZ3rdHaeUhIshnfcJcBHcNtagaISRrNiUdG0oll5iWRq1uPB-xY8kzWKN7MkX6psL9cwCKE4q2snoK9M9VeKJkhIEyG0WovEgk5RMJdFCbH64ZDxSpO88pbeAvmN2zcIIQ=w1280)
+![](./assets/phase-3/homepage_discussions.png)
 
 > William working on basic app sketches
