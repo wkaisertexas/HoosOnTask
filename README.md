@@ -42,7 +42,7 @@ Group work in school projects **sucks**. Group member doing nothing, unclear com
 **Professors**
 
 - Confrontational methods of group evaluation
-    - [CateME Evaluation]() feel like playing [the Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+    - [CateME Evaluation](https://info.catme.org/features/peer-evaluation/) feel like playing [the Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
 
 ## Project Phases
 
