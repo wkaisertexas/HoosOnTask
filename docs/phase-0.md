@@ -1,5 +1,5 @@
 ---
-title: P0 Concept
+title: P0 Concept Statement
 ---
 
 **Project Theme:** Service Design

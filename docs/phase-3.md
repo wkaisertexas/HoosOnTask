@@ -1,5 +1,5 @@
 ---
-title: P3 Contextual Inquiry and Analysis
+title: P3 Conceptual Design
 ---
 
 - **Project manager:** \- Caleb Adam \- Responsible for managing and organizing the team to get the project done. This person should organize meetings, take notes, make sure action items and tasks are clear, and make sure other team members are getting their jobs done.
