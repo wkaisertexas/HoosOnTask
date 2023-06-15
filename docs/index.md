@@ -1,4 +1,6 @@
-# *Hoos on Task*
+---
+title: Hoos On Task
+---
 
 *Hoos on Task* was a semester-long project on Human-Computer Interfaces at the University of Virginia.
 

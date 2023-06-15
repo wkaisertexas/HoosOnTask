@@ -1,4 +1,6 @@
-# Contextual Inquiry and Analysis
+---
+title: Contextual Inquiry and Analysis
+---
 
 ## System Concept Statement
 

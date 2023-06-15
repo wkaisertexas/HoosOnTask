@@ -1,4 +1,6 @@
-# Rapid Spin
+---
+title: P1 Rapid Spin 
+---
 
 *Hoo's Got It* is a lost-and-found app designed around trust. Intended for use in and around college campuses, where current solutions are either a network of chaotic bins or large group chats. High item availability in both solutions facilitates fraud and abuse. *Hoo's Got It* is purpose-built with features incompatible with being integrated into the current ad hoc solutions. A streamlined posting process makes listing a lost item as simple as sending a text. Then, a transparent claiming system, revealing the searches leading to the claim provides a digital analog to the physical process of providing identifying details to prove ownership. 
 

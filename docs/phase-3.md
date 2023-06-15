@@ -1,3 +1,7 @@
+---
+title: P3 Contextual Inquiry and Analysis
+---
+
 - **Project manager:** \- Caleb Adam \- Responsible for managing and organizing the team to get the project done. This person should organize meetings, take notes, make sure action items and tasks are clear, and make sure other team members are getting their jobs done.
 - **Research lead:** \- William Kaiser\- Takes primary responsibility for the research/analysis portion of the work.
 - **Design lead:** \- John Parzick \- Takes primary responsibility for the design portion of the work.

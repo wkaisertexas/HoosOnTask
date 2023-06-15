@@ -1,4 +1,6 @@
-## UX Targets
+---
+title: P4 UX Targets
+---
 
 ### Target Table Process, Rationale and Description
 
