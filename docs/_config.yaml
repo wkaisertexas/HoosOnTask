@@ -1,0 +1,14 @@
+title: Hoos On Task
+author:
+  name: William Kaiser
+  email: wkaisertexas@gmail.com
+
+description: CS 3205 Semester-Long UI / UX Design Project
+
+theme: minima
+google_analytics: G-S8V0DWY6VP
+plugins:
+  - jekyll-seo-tag
+
+minima:
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/williamdkaiser" }
